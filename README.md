@@ -1,6 +1,12 @@
 ### Thetacore Challenge 5 Hour Mark
 
-Due to spending a lot of time setting up PostgreSQL (it was my first time), I only got to listing the experts. I will be making a 6-7 hour version just to show that I can do more, just ran out of time.
+Due to spending a lot of time setting up PostgreSQL (it was my first time), I only got to following:
+- Database and tables set up
+- Other backend setup
+- Frontend set up w/React
+- Listing the "experts" from the database in the UI
+
+##### For more updates past the 5 hour mark, see the 7 hour mark branch.
 
 ### Setup
 
