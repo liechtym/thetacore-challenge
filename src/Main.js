@@ -61,7 +61,7 @@ class Main extends Component {
                         <p key={i}>{item.name} - <a href={item.website}>website</a></p>
                     )
                   })
-            }
+            } 
 
 
             <h3>Add expert</h3>
