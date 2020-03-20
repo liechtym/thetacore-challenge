@@ -6,6 +6,10 @@ Due to spending a lot of time setting up PostgreSQL (it was my first time), I on
 - Frontend set up w/React
 - Listing the "experts" from the database in the UI
 
+#### I acknowledge that the following are not present because of time constraints:
+- There are no tests
+- Error handling is not implemented besides a basic check when data is posted to the database
+
 ##### For more updates past the 5 hour mark, see the 7 hour mark branch.
 
 ### Setup
