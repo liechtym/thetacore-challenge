@@ -7,6 +7,10 @@ At the 5 hour mark, I had created the database, backend, frontend, and was listi
 - Updated the UI to add elements for submitting experts to the database
 - Added Bootstrap styles to the page
 
+#### I acknowledge that the following are not present because of time constraints:
+- There are no tests
+- Error handling is not implemented besides a basic check when data is posted to the database
+
 ### Setup
 
 `npm-install`

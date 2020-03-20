@@ -72,7 +72,7 @@ class Main extends Component {
             <div>
                 <label for="ExpertWebsite">Website: </label>
                 <input type="text" id="ExpertWebsite"></input>
-            </div>
+            </div> 
             <button onClick={this.handleSubmitExpert.bind(this)}>Add</button>
             {/* <h2>Search an expert</h2>
             <div className="search-container">
